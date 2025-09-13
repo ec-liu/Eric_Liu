@@ -1,1 +1,2 @@
 # KC7-Cyber
+This repository showcases my work with KC7, a free cyber defense simulation platform. Here, I document completed challenges, break down investigative scripts, and share insights gained while analyzing real-world security scenarios. My goal is to demonstrate practical skills in log analysis, threat detection, and incident response, while building a resource that reflects both my learning process and problem-solving approach.
