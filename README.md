@@ -12,3 +12,4 @@ Easy
   08. Cowboy Couture | [Badge](https://kc7cyber.com/badges/earned/26561) |
 
 Moderate
+  01. Frognado in Valdoria | [Badge](https://kc7cyber.com/badges/earned/26633) |
