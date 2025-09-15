@@ -18,6 +18,3 @@ Moderate
   04. Critical Compromise In Chicago - ICS | [Badge](https://kc7cyber.com/badges/earned/26661) |
   05. French Socksess Story | Does not provide a Badge |
   06. KRUSTY KRAB | [Badge](https://kc7cyber.com/badges/earned/26747) |
-  07.
-  08.
-  09.
