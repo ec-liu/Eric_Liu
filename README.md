@@ -14,3 +14,4 @@ Easy
 Moderate
   01. Frognado in Valdoria | [Badge](https://kc7cyber.com/badges/earned/26633) |
   02. AzureCrest | [Badge](https://kc7cyber.com/badges/earned/26648) |
+  03. Turkey Bowl | Does not provide a Badge |
