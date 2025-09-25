@@ -1,3 +1,3 @@
-##PicoCTF
+## PicoCTF
 
 PicoCTF is an online cybersecurity platform where I complete interactive CTF challenges in areas like cryptography, web exploitation, forensics, and binary analysis. For each challenge, I solve the problem, document my methodology, and create detailed writeups to showcase my technical approach and learning. The following write ups are specifically for the Forensics Category. Here is a [link](https://play.picoctf.org/users/Ecliu) to my picoCTF profile.
