@@ -7,6 +7,12 @@ I’m an aspiring cybersecurity analyst and enthusiast with hands-on experience 
 
 I completed the Cybersecurity Bootcamp at Fullstack Academy, an intensive, hands-on program covering both defensive and offensive security. Throughout the bootcamp, I worked on projects that showcased my skills in areas such as threat detection, penetration testing, firewall configuration, and incident response. I gained experience with industry-standard tools including Splunk, Wireshark, Nmap, and Metasploit, while building a strong foundation in security fundamentals and real-world problem solving.
 
+Projects
+  01. The Permissions Problem
+  02. Stackfull User Onboarding Guide
+  03. Penetration Testing Report
+  04. Enhancing Network Security with GUFW
+
 ## KC7-Cyber
 This repository showcases my work with KC7, a free cyber defense simulation platform. Here, I document completed challenges, break down investigative scripts, and share insights gained while analyzing real-world security scenarios. My goal is to demonstrate practical skills in log analysis, threat detection, and incident response, while building a resource that reflects both my learning process and problem-solving approach. Here is a [link](https://kc7cyber.com/profile/277a90a4) to my KC7 profile.
 
