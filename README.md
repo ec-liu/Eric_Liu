@@ -1,4 +1,4 @@
-# Cybersecurity Portfolio
+# 📂Cybersecurity Portfolio
 Welcome! I'm Eric Liu, an aspring cybersecurity analyst with a focus on ethical hacking, network security, and cyber defense. This portfolio will showaces my hands-on projects, research write-ups, and technical skills.
 
 ## About Me
