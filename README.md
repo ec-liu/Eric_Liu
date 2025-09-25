@@ -27,3 +27,30 @@ Moderate
   04. Critical Compromise In Chicago - ICS | [Badge](https://kc7cyber.com/badges/earned/26661) |
   05. French Socksess Story | Does not provide a Badge |
   06. KRUSTY KRAB | [Badge](https://kc7cyber.com/badges/earned/26747) |
+
+## PicoCTF
+PicoCTF is an online cybersecurity platform where I complete interactive CTF challenges in areas like cryptography, web exploitation, forensics, and binary analysis. For each challenge, I solve the problem, document my methodology, and create detailed writeups to showcase my technical approach and learning. The following write ups are specifically for the Forensics Category. Here is a [link](https://play.picoctf.org/users/Ecliu) to my picoCTF profile.
+
+Easy
+  01. Scan Suprise
+  02. RED
+  03. information
+  04. Glory of the Garden
+  05. Verify
+  06. CanYouSee
+  07. Secret of the Polyglot
+  08. Ph4nt0m 1ntrud3r
+  09. DISKO 1
+
+Medium
+  01. What Lies Within
+  02. Enhance!
+  03. Lookey here
+  04. DISKO 2
+  05. So Meta
+  06. Matrysohka doll
+  07. extensions
+  08. Wireshark doo dooo do doo...
+
+Hard
+  01. WebNet0
