@@ -1,10 +1,10 @@
 # Cybersecurity Portfolio
+Welcome! I'm Eric Liu, an aspring cybersecurity analyst with a focus on ethical hacking, network security, and cyber defense. This portfolio will showaces my hands-on projects, research write-ups, and technical skills.
 
-## Hello, I’m Eric Liu.
-I’m an aspiring cybersecurity analyst and enthusiast with hands-on experience in network security, incident response, firewall configuration, and vulnerability assessment. I enjoy solving complex technical challenges, turning them into clear, actionable solutions, and sharing my findings through writeups and projects. Passionate about protecting systems and data, I thrive on practical labs and hands-on security work that strengthen both skills and knowledge.
+## About Me
+I'm a cybersecurity enthusiast with hands-on experience in network security, incident response, firewall configuration, and vulnerability assessment. I enjoy solving complex technical challenges, turning them into clear, actionable solutions, and sharing my findings through writeups and projects. Passionate about protecting systems and data, I thrive on practical labs and hands-on security work that strengthen both skills and knowledge.
 
 ## Fullstack Academy
-
 I completed the Cybersecurity Bootcamp at Fullstack Academy, an intensive, hands-on program covering both defensive and offensive security. Throughout the bootcamp, I worked on projects that showcased my skills in areas such as threat detection, penetration testing, firewall configuration, and incident response. I gained experience with industry-standard tools including Splunk, Wireshark, Nmap, and Metasploit, while building a strong foundation in security fundamentals and real-world problem solving.
 
 Projects
